@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.main {
+  height: 100%;
+  width: 100%;
+  background-image: url(https://jx3.xoyo.com/zt/2018/12/18/jx3-fenliuye/assets/images/xfe-layer-2.3cccb923.jpg);
+  background-size: cover;
+  background-position: top center;
+}
+
+.button {
+  position: absolute;
+  top: 75%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 50px;
+  width: 200px;
+  background-image: url('https://jx3.xoyo.com/zt/2018/12/18/jx3-fenliuye/assets/images/xfe-layer-5.9d18b1c1.png');
+  background-size: contain;
+  background-position: center;
+  background-repeat: no-repeat;
+}

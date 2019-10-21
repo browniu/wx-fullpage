@@ -1,21 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0412a1db-ab65-49c6-9dfb-42c2947a5ec4" name="Default Changelist" comment="完成基础部分">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/wx-fullpage.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/wx-fullpage.iml" afterDir="false" />
+    <list default="true" id="0412a1db-ab65-49c6-9dfb-42c2947a5ec4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/example/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/src/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/src/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/node_modules/wx-fullpage/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -44,7 +74,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -54,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -81,7 +112,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -118,24 +148,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571687540907</updated>
-      <workItem from="1571687544395" duration="3167000" />
+      <workItem from="1571687544395" duration="3268000" />
+      <workItem from="1571691074137" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3167000" />
+    <option name="totallyTimeSpent" value="3271000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
-      <window_info id="npm" side_tool="true" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15091342" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49960285" visible="true" weight="0.32913166" />
-      <window_info active="true" anchor="bottom" id="Event Log" sideWeight="0.50039715" side_tool="true" visible="true" weight="0.32913166" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -143,6 +170,10 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50119144" side_tool="true" visible="true" weight="0.2780822" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4988086" visible="true" weight="0.2780822" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />

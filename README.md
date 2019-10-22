@@ -9,7 +9,7 @@
 
 ![demo](./static/before.jpg)
 
-开启全屏模式可以提高页面的整体质量
+开启全屏模式可以提高页面的整体观感
 
 ![demo](./static/after.jpg)
 

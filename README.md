@@ -7,15 +7,15 @@
 ## demo
 未开启全屏时顶部状态栏占据了近15%-20%的屏幕高度
 
-![demo]()
+![demo](./static/before.jpg)
 
 开启全屏模式可以提高页面的整体质量
 
-![demo]()
+![demo](./static/after.jpg)
 
 开启过程
 
-![demo]()
+![demo](./static/fullpage.gif)
 
 ## Install
 

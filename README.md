@@ -4,7 +4,7 @@
 
 [![NPM](https://img.shields.io/npm/v/wx-fullpage.svg)](https://www.npmjs.com/package/wx-fullpage) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
-## demo
+## [demo](https://browniu.com/wx-fullpage/)
 未开启全屏时顶部状态栏占据了近15%-20%的屏幕高度
 
 ![demo](./static/before.jpg)
